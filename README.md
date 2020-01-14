@@ -5,8 +5,9 @@ The purpose of the project is to create a dog breed classifier that can identify
 
 # Files:
 1. dog-app.ipynb : is the python 3 file that can be run to classify dog images
-2. test: the folder has the test images for this project.
-3. Readme
+2. dog-app.html: is the html file forthe app.
+3. test: the folder has the test images for this project.
+4. Readme
 
 # Packages
 1. numpy
