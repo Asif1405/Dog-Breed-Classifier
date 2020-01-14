@@ -18,10 +18,15 @@ The purpose of the project is to create a dog breed classifier that can identify
 7. keras
 8. random
 9. PIL
+10. tqdm
 
 # Pretrained CNN models
 1. VGG-16
 2. Xception
+3. Res-Net50
 
 # Conclusion
-The performance of the pre-trained model built far exceeded the hand made CNN model. The accuracy of the Xception model (reached 85% while my CNN was about 7%.
+The performance of the pre-trained model built far exceeded the hand made CNN model. The accuracy of the Xception model (reached 85% while my CNN was about 7%.)
+
+# Medium blog link:
+https://medium.com/@asif.mahfuz001/dog-breed-classifier-using-cnns-9971a0481b2a
